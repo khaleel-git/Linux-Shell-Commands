@@ -25,7 +25,7 @@ Learned from a perfect Coursera course: [Hands-on Introduction to Linux Commands
  * tail file – output the last 10 lines of file
  * tail -f file – output the contents of file as it grows, starting with the last 10 lines 
 
-##Process Management:
+## Process Management:
  * ps – display your currently active processes
  * top – display all running processes
  * kill pid – kill process id pid
@@ -44,12 +44,12 @@ Learned from a perfect Coursera course: [Hands-on Introduction to Linux Commands
  * chmod 777 – read, write, execute for all
  * chmod 755 – rwx for owner, rx for group and world
 
-##SSH: 
+## SSH: 
  * ssh user@host – connect to host as user
  * ssh -p port user@host – connect to host on port port as user
  * ssh-copy-id user@host – add your key to host for user to enable a keyed or passwordless login
 
-##Searching:
+## Searching:
  * grep pattern files – search for pattern in files
  * grep -r pattern dir – search recursively for pattern in dir
  * command | grep pattern – search for pattern in the output of command
