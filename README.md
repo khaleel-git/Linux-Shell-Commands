@@ -1,6 +1,7 @@
 # Linux Cheat Sheet
 
-Learnt from a perfect Coursera course: https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting/
+Learned from a perfect Coursera course: [Hands-on Introduction to Linux Commands and Shell Scripting
+](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting/)
 
 ## File Commands:
  * ls – directory listing
