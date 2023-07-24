@@ -1,4 +1,4 @@
-# Linux Cheat Sheet
+# Hands-on Introduction to Linux Commands and Shell Scripting
 
 Learned from a perfect Coursera course: [Hands-on Introduction to Linux Commands and Shell Scripting
 ](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting/)
